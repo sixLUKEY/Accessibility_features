@@ -1,0 +1,11 @@
+{
+  "name": "accessibility_features",
+  "version": "1.0.0",
+  "description": "Various web accessibility features and implementations",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "author": "sixLukey",
+  "license": "ISC"
+}
